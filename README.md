@@ -6,6 +6,9 @@ I'm also interested in solar pysics and i like to automate processing pipelines.
 
 🔭 I’m currently working on automating magnetic feature detection in SDO/HMI SHARP datasets
 
+🌱 I’m currently learning how to do networking with Mikrotik
+
+👯 I’m looking to collaborate on [sunpy](https://github.com/sunpy/sunpy)
 
 ![Lazar's github stats](https://github-readme-stats.vercel.app/api?username=lzivadinovic&show_icons=true)
 
