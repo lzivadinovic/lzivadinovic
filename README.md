@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Lazar and i work at [@itekako](https://github.com/itekako) as DevOps engeneer.
+I'm Lazar and i work at [@itekako](https://github.com/itekako) as DevOps engineer.
 
 I'm also interested in solar pysics and i like to automate processing pipelines. 
 
